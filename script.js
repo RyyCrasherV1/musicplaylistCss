@@ -91,10 +91,10 @@ let songs = [
         videoBgSrc: "videos/Perfect - One Direction.mp4", // Path video background specifically for this song
         // Lyrics with timestamp in seconds
         lyrics: [
-            { time: 88, text: "I might never be your knight in shining armor" },
-            { time: 95, text: "I might never be the one you take home to mother" },
-            { time: 102, text: "And I might never be the one who brings you flowers" },
-            { time: 109, text: "But I can be the one, be the one tonight" },
+            { time: 5.7, text: "I might never be your knight in shining armor" },
+            { time: 10.2, text: "I might never be the one you take home to mother" },
+            { time: 15.2, text: "And I might never be the one who brings you flowers" },
+            { time: 20, text: "But I can be the one, be the one tonight" },
             { time: 116, text: "When I first saw you" },
             { time: 122, text: "From across the room" },
             { time: 129, text: "I could tell that you were curious (oh, yeah)" },
