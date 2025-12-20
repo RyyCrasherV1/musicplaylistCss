@@ -95,7 +95,7 @@ let songs = [
             { time: 10.2, text: "I might never be the one you take home to mother" },
             { time: 15.2, text: "And I might never be the one who brings you flowers" },
             { time: 20, text: "But I can be the one, be the one tonight" },
-            { time: 116, text: "When I first saw you" },
+            { time: 25.4, text: "When I first saw you" },
             { time: 122, text: "From across the room" },
             { time: 129, text: "I could tell that you were curious (oh, yeah)" },
             { time: 135, text: "Girl, I hope you’re sure" },
